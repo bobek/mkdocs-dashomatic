@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='mkdocs-dashomatic',
-    version='0.1.1',
+    version='0.1.2',
     description='A MkDocs plugin to convert hyphens to dashes.',
     long_description=long_description,
     long_description_content_type="text/markdown",
